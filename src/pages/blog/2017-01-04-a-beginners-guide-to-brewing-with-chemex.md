@@ -9,8 +9,14 @@ description: Stories in Design offers a highly personalised approach for every
 featuredpost: false
 featuredimage: /img/s-o-c-i-a-l-c-u-t-flupnkhfcts-unsplash.jpg
 tags:
-  - brewing
-  - chemex
+  - interior design
+  - interior decorating
+  - interior styling
+  - home decor
+  - home decorating
+  - organisation
+  - decluttering
+  - renovation
 ---
 ![chemex](/img/s-o-c-i-a-l-c-u-t-flupnkhfcts-unsplash.jpg)
 
