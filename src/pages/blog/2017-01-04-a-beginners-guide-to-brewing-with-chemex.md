@@ -18,7 +18,7 @@ tags:
   - decluttering
   - renovation
 ---
-![chemex](/img/s-o-c-i-a-l-c-u-t-flupnkhfcts-unsplash.jpg)
+![interior decorating](/img/s-o-c-i-a-l-c-u-t-flupnkhfcts-unsplash.jpg "Stories in Design")
 
 We offer a highly personalised approach for every client, making sure that every project tells a story. Our commitment is to deliver thoughtful attention and inspiration to every detail, challenge and environment.
 
